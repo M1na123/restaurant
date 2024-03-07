@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>Restaurant</title>
+		<link><![CDATA[https://restauranthaven.000webhostapp.com]]></link>
+		<description>Restaurant</description>
+		<language>en</language>
+		<pubDate>Mon, 29 Jan 2024 16:29:57 +0000</pubDate>
+		<item>
+			<guid isPermaLink="false">4199825168</guid>
+			<title>Restaurant</title>
+			<link>https://restauranthaven.000webhostapp.com/index.html</link>
+			<dc:creator>Administrator</dc:creator>
+			<category>Site News</category>
+			<pubDate>Mon, 29 Jan 2024 18:29:56 +0200</pubDate>
+		</item>
+	</channel>
+</rss>
