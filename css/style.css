@@ -75,19 +75,17 @@ nav ul li a {
     color: white;
     border-radius: 10px;
 }
-@keyframes slide-in {
+@keyframes bounceAnimation {
     0% {
-        opacity: 0;
-        transform: translateY(-20px);
+        font-size: 20px;
     }
     100% {
-        opacity: 1;
-        transform: translateY(0);
+        font-size: 24px;
     }
 }
 
 .slide-in-text {
-    animation: slide-in 2s ease-out;
+    animation: bounceAnimation 1s forwards;
 }
 #container1 h1 {
     font-size: 70px;
